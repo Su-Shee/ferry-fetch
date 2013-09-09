@@ -1,0 +1,29 @@
+[
+  {
+    "route_name": "Liverpool - Dublin",
+    "origin_name": "Liverpool",
+    "destination_name": "Dublin",
+    "departure_time": "Thu 12 Sep @ 03:00",
+    "arrival_time": "Thu 12 Sep @ 10:30",
+    "duration": "07h 30m",
+    "price": "£104.00"
+  },
+  {
+    "route_name": "Liverpool - Dublin",
+    "origin_name": "Liverpool",
+    "destination_name": "Dublin",
+    "departure_time": "Wed 11 Sep @ 21:00",
+    "arrival_time": "Thu 12 Sep @ 05:00",
+    "duration": "08h 00m",
+    "price": "£189.00"
+  },
+  {
+    "route_name": "Liverpool - Dublin",
+    "origin_name": "Liverpool",
+    "destination_name": "Dublin",
+    "departure_time": "Thu 12 Sep @ 09:30",
+    "arrival_time": "Thu 12 Sep @ 17:30",
+    "duration": "08h 00m",
+    "price": "£109.00"
+  }
+]
